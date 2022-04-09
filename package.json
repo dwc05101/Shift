@@ -18,7 +18,7 @@
     "apollo-client": "^2.6.3",
     "graphql": "^14.0.0",
     "history": "^4.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-recur": "^1.0.7",
     "moment-timezone": "^0.5.26",
     "prop-types": "^15.7.2",
