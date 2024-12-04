@@ -20,7 +20,7 @@
     "history": "^4.9.0",
     "moment": "^2.24.0",
     "moment-recur": "^1.0.7",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
